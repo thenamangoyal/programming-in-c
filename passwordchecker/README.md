@@ -1,0 +1,3 @@
+# passwordchecker
+
+A C program that will check whether a string entered from input is a valid password or not. The input is a given string input_string and the output is 1 if the input is a valid and strong password, else 0. The rules for a valid & strong password are as follows:  The password must be between 5 to 15 characters in length.  The first character of the password must be alphanumeric (either alphabet or numeric).  There must be at least one numeric digit in the password.  There must not be any space character(s) in the password.  There must be at least one Upper case alphabet in the password.
